@@ -1,0 +1,5 @@
+/.idea
+/.ipynb_checkpoints
+/*.app/**
+/*.zip
+/__pycache__/**
